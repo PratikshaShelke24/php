@@ -1,5 +1,5 @@
 <?php
-//echo "pratiksha";
+echo "pratiksha";
 //var_dump("hello");
 
  //$mobile_number=(int) "1234567890";
